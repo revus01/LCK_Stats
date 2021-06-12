@@ -1,22 +1,37 @@
-```
-┌───────────────────────────────────────────────┐
-                                       _       
-     __ _  ___   ___  _ __ _ __ ___   (_) ___  
-    / _` |/ _ \ / _ \| '__| '_ ` _ \  | |/ _ \ 
-   | (_| | (_) | (_) | |  | | | | | |_| | (_) |
-    \__, |\___/ \___/|_|  |_| |_| |_(_)_|\___/ 
-    |___/                                      
-			     🌩 𝘼𝙣𝙮𝙤𝙣𝙚 𝙘𝙖𝙣 𝙙𝙚𝙫𝙚𝙡𝙤𝙥!
-└───────────────────────────────────────────────┘
-```
 
-# goormIDE
-Welcome to goormIDE!
+--------------------------------------------------------------------------------------------------                                                                                                    
+                                                                                                    
+                      ZZZZ                                                ZZZZ                      
+                        ZZZZZZZZZ                                  ZZZZZZZZZ                        
+                           ZZZZZZZZZZZE5                    ZZZZZZZZZZZZZ                           
+                             ZZZZZZZZZZZZZZZZZ        ZZZZZZZZZZZZZZZZz                             
+                                ZZZZZZZZZZZZZZZ      ZZZZZZZZZZZZZZZ                                
+                                  ZZZZZZZZZZZZZZ    ZZZZZZZZZZZZZZ                                  
+                                    ZZZZZZZZZZZZZ  ZZZZZZZZZZZZZ                                    
+                                       ZZZZZZZZZZ  ZZZZZZZZZZ                                       
+                                         ZZZZZZZZZZZZZZZZZZ                                         
+                                           ZZZZZZZZZZZZZZ                                           
+                                              EZZZZZZZ                                              
+                                               ZZZZZZ                                               
+                                              ZZZZZZZZ                                              
+                                             ZZ      ZZ                                             
+                                            Z          Z                                            
+                                                                                                    
+                                                                                                    
+                                ZZ          ZZZZZZZZZZZZ ZZZ      ZZZ                               
+                                ZZ          ZZZZZZZZZZZZ ZZ      ZZZ                                
+                                ZZ          ZZZ          ZZZZZZZZZZ                                 
+                                ZZ          ZZZ          ZZZZZZZZZZ                                 
+                                ZZZZZZZZZZZ ZZZZZZZZZZZZ ZZ      ZZZ                                
+                                ZZZZZZZZZZZ ZZZZZZZZZZZZ ZZZ     ZZZZ  
+				
+-----------------------------------------------------------------------------------------------------
+                                                                                                    
+                                                                                                    
 
-goormIDE is a powerful cloud IDE service to maximize productivity for developers and teams.  
-**DEVELOP WITH EXCELLENCE**  
 
-`Happy coding! The goormIDE team`
+# 저는 LCK팬입니다.
+
 
 
 ## 🔧 Tip & Guide
